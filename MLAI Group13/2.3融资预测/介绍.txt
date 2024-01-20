@@ -1,0 +1,20 @@
+感谢观看并批阅MLAI GROUP13的final work！
+
+本部分内容为企业融资情况预测，具体可参见报告2.3部分。主要目的是根据企业基本信息和过往融资情况，预测未来融资情况的好坏。
+
+数据集来源为：https://www.kaggle.com/datasets/arindam235/startup-investments-crunchbase/data
+
+	1.我们对比了主流模型随机森林回归、决策树回归、GBM、XGBoost、SVM的效果，并尝试了PCA（效果不好）
+
+	2.因为数据不足，我们只选取了具有较高准确度的B\C\D-H的预测结果，发现对于企业未来融资情况来讲，影响最大的是过往融资水平。
+
+分工——
+	
+	李柯毅：寻找数据、数据清洗、特征工程
+
+	辛婷毅：分类预测、PCA尝试
+
+
+Keyi Li，Tingyi Xin
+
+2024.1.20
