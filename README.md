@@ -4,8 +4,6 @@
 
 👀 您是否曾有过创业的想法？您是否适合成为创业者？您了解企业创建与运营的关键之处吗？我们的小组项目将带您一步步了解创业的各方面情况！
 
-![](https://drive.google.com/file/d/16THtue3EblS1Pc96gifn2SZtG-iNq0F5/view?usp=sharing)
-
 ⚡我们的思路为：
 
 - 2.1 您的性格是否适合创业？
