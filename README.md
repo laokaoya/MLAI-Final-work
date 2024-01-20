@@ -1,6 +1,6 @@
 # MLAI Group13 Final work
 
-👋 感谢观看并批阅 MLAI Group13的final work
+👋 感谢您观看并批阅 MLAI Group13的final work
 
 👀 您是否曾有过创业的想法？您是否适合成为创业者？您了解企业创建与运营的关键之处吗？我们的小组项目将带您一步步了解创业的各方面情况！
 
