@@ -23,3 +23,33 @@
 - 无监督模型：自编码器、PCA等
 
 💞️ 希望我们的工作可以切实帮助投资者做出决策，助力创业成功！
+
+<-------------------------------------------------------------------------------------------------------------------------------->
+
+
+👋 Thank you for watching and reviewing the final work of the MLAI course.
+
+👀 Have you ever had entrepreneurial ideas? Are you suited to be an entrepreneur? Do you understand the key aspects of starting and running a business? Our group project will guide you step by step through various aspects of entrepreneurship!
+
+⚡ Our approach is as follows:
+
+2.1 Is your personality suitable for entrepreneurship?
+
+2.2 How to recruit and retain employees?
+
+2.3 Can you secure good financing?
+
+2.4 How to prevent your company from going bankrupt?
+
+3.1 From the perspective of investors, what types of companies do they favor?
+
+3.2 Visualizing successful company predictions using the United States as an example
+
+🌱 The data consists of 5 sets (2.3 and 3.1 share one set of data), with a total of 120,000+ records (including text and image datasets). Data sources include Kaggle, Chalearn, Github, etc.
+
+😄 The models we used include:
+
+Supervised regression models: CNN, linear regression (Lasso regression, ridge regression), K-nearest neighbors, etc.;
+Supervised classification models: Decision trees, random forests, gradient boosting, XGBoost, support vector machines, etc.;
+Unsupervised models: Autoencoders, PCA, etc.
+💞️ We hope our work can effectively help investors make decisions and contribute to entrepreneurial success!
