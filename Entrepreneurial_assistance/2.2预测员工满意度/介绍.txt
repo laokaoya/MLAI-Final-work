@@ -1,0 +1,12 @@
+感谢观看并批阅MLAI GROUP13的final work！
+
+本部分内容为员工满意度预测，具体可参见报告2.2部分。
+
+数据集来源为： https://www.kaggle.com/datasets/redpen12/employees-satisfaction-analysis
+
+使用的模型主要包括线性回归、随机森林回归、支持向量回归、决策树回归、K近邻回归、岭回归、Lasso回归。
+
+
+Tingyi Xin
+
+2024.1.20

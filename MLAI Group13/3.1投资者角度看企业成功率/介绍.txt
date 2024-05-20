@@ -1,9 +1,0 @@
-感谢观看并批阅MLAI GROUP13的final work！
-
-本部分内容为对公司未来状态预测，具体可参见报告3.1部分。
-
-数据集来源为https://www.kaggle.com/datasets/arindam235/startup-investments-crunchbase/data (与2.3部分一致）
-
-	1.我们的思路为根据公司基本情况（行业、成立时间、地点）以及投资情况预测公司成功率（status）
-
-	2.使用的模型主要包括随机森林分类、PCA降维
