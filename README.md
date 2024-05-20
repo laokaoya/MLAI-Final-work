@@ -1,10 +1,10 @@
-# MLAI Final work
+# Entrepreneurship Assistance System based on Machine Learning
 
 👋 Thank you for watching and reviewing the final work of the MLAI course.
 
-👀 Have you ever had entrepreneurial ideas? Are you suited to be an entrepreneur? Do you understand the key aspects of starting and running a business? Our group project will guide you step by step through various aspects of entrepreneurship!
+👀 Have you ever had entrepreneurial ideas? Are you suited to be an entrepreneur? Do you understand the key aspects of starting and running a business? The project will guide you step by step through various aspects of entrepreneurship!
 
-⚡ Our approach is as follows:
+⚡ Approaches are as follows:
 
 2.1 Is your personality suitable for entrepreneurship?
 
@@ -25,6 +25,7 @@
 Supervised regression models: CNN, linear regression (Lasso regression, ridge regression), K-nearest neighbors, etc.;
 Supervised classification models: Decision trees, random forests, gradient boosting, XGBoost, support vector machines, etc.;
 Unsupervised models: Autoencoders, PCA, etc.
+
 💞️ We hope our work can effectively help investors make decisions and contribute to entrepreneurial success!
 
 <-------------------------------------------------------------------------------------------------------------------------------->
